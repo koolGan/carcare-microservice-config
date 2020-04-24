@@ -1,5 +1,4 @@
 # Avoid including Experiment files: they can be created and edited locally to test the ipf files
-*.pxp
-*.pxt
-*.uxp
-*.uxt
+@@ -0,0 +1,2 @@
+*.iml
+.idea/ 
